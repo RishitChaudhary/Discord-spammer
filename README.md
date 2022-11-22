@@ -18,7 +18,7 @@ pip install discord.py-self
 ```
 
 # 🛠 Usage
-Download the <a href="https://github.com/RishitChaudhary/discord-spammer/releases/download/ZipFile/discord-spammer-main.zip"> zip-file <a> and extract all the file in the same folder.
+Download the <a href="https://github.com/RishitChaudhary/discord-spammer/archive/refs/tags/ZipFile.zip"> zip-file <a> and extract all the file in the same folder.
   <br>
 Open `spammer.pyw` in a text editor of your choice
 
