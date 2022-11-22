@@ -9,7 +9,7 @@ os.system(F"cd {os.path.dirname(__file__)}") # Changes your current working dire
 
 token="Your token goes here" # Your token goes inside the quotes
 admins = []   # The id of the owner of the bot/yours goes here, whoevers id is here will be able to control the bot, seperate with ,
-
+prefix = "!"  # Put your prefix inside the quotes, default is "!"
 #################################################################################################################################
 
 
