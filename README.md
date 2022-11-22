@@ -23,6 +23,7 @@ Download the <a href="https://github.com/RishitChaudhary/discord-spammer/release
 Open `spammer.pyw` in a text editor of your choice
 
 Put your token inside the `token` variable, and your discord user id in `admins` inside the square brakets as shown in example below:
+  <br>
 ![image](https://user-images.githubusercontent.com/109065518/203211944-de3ac878-bd56-499b-b8c6-a9e21040ae2a.png)
 
 Alrgiht so in the `admins` variable you can put more than one user id, whoever's user id you'll put in it will have control over your bot within Discord.
