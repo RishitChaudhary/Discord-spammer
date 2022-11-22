@@ -1,7 +1,12 @@
 # 🍁 Discord-spammer
-<h4> A Discord self-bot spammer which'll spam in your desired channels. <h4>
-
-
+<h5><h4> A Discord self-bot spammer which'll spam in your desired channels. <h4><h5>
+  <a href="https://github.com/RishitChaudhary/discord-spammer/tree/main#-requirements"> Requirements <a>
+    <br>
+  <a href="https://github.com/RishitChaudhary/discord-spammer/tree/main#-usage"> Usage <a>
+    <br>
+  <a href="https://github.com/RishitChaudhary/discord-spammer/tree/main#-commands"> Commands <a>
+    <br>
+  <a href="https://github.com/RishitChaudhary/discord-spammer/tree/main#-footnotes"> Footnotes <a>
 
 # ✅ Requirements
 
